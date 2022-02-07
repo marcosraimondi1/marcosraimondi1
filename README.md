@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Marcos Raimondi, I'm a computer engineering student interested in all kinds of projects and programming challenges.
+
+- 🔭 I’m currently working on web development projects (MERN)
 <!--
 **marcosraimondi1/marcosraimondi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
