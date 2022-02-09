@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-My name is Marcos Raimondi, I'm a computer engineering student interested in all kinds of projects and programming challenges.
+My name is Marcos Raimondi, I'm a computer engineering student interested in all kinds of projects and programming challenges. I am a student with a great interest in programming and in continuing to perfect my skills that will allow me to grow professionally. I always try to stay uptodate with the latest technology. I am resilient, self-taught and persevering. I have no problem working alone or integrating a team. 
 
-- 🔭 I’m currently working on web development projects (MERN)
+- 🔭 My current interests are web programming, artificial intelligence and the IoT.
+
+😄 Feel free to check out my public repositories and don't forget to pass by my github page https://marcosraimondi1.github.io  
+
 <!--
 **marcosraimondi1/marcosraimondi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
