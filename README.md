@@ -1,30 +1,24 @@
-### Hi there 👋
-
-<div style="text-align:justify"> 
-
-My name is Marcos Raimondi, I'm a computer engineering student interested in all kinds of projects and programming challenges. I am a student with a great interest in programming and in continuing to perfect my skills that will allow me to grow professionally. I always try to stay uptodate with the latest technology. I am resilient, self-taught and persevering. I have no problem working alone or integrating a team.
-
-</div>
+# 💫 About Me:
+👨‍💻 I’m a Computer Engineering Student @ FCEFyN, UNC<br>🔭 I’m currently working on Internet of Things related projects<br>🌱 I’m currently learning Internet of Things firmware<br>🏠 Córdoba capital, Argentina<br> <br>🌐 https://marcosraimondi1.github.io<br><br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcosraimon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-raimondi) 
 
-#### 🌐 Check out my web page: https://marcosraimondi1.github.io
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marcosraimondi1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcosraimondi1&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosraimondi1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👋 Marcos Raimondi
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🏠 Córdoba capital, Argentina
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-- 🎓 Computer engineering student @ FCEFyN, UNC
+---
+[![](https://visitcount.itsvg.in/api?id=marcosraimondi1&icon=5&color=1)](https://visitcount.itsvg.in)
 
-- :mailbox_with_mail: Feel free to contact me via e-mail: marcosraimondi1@gmail.com
-
-- 💼️ Reach me on LinkedIn: https://www.linkedin.com/in/marcos-raimondi/
-
-- 🔭 My current interests are web programming, artificial intelligence and IoT.
-
-- 😄 Feel free to check out my public repositories !
-
-<div style="text-align:center;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosraimondi1&langs_count=10&layout=compact&cache_seconds=1800&theme=github_dark" alt="Most used langs">
-	<img src="https://github-readme-stats.vercel.app/api?username=marcosraimondi1&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=github_dark" alt="GitHub stats">
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
