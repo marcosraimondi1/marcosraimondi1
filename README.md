@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 I’m an Advanced Computer Engineering Student @ FCEFyN, UNC<br>🔭 I’m currently working in **AngoraSix** Spring Project <br>🌱 I’m currently on my last year working on 2D parallel convolution with FPGAs for real time video processing<br>🏠 Córdoba capital, Argentina<br> <br>🌐 https://marcosraimondi1.github.io<br><br>
+👨‍💻 Computer Engineer<br>
+🌐 https://marcosraimondi1.github.io<br><br>
 
 
 ## 🌐 Socials:
