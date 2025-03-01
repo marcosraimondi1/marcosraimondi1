@@ -10,7 +10,7 @@
       srcset="https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=Marcos%20Raimondi&height=200&animation=fadeIn"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://capsule-render.vercel.app/api?type=venom&theme=default&text=Marcos%20Raimondi&height=200&animation=fadeIn" />
+    <img min-height=200 src="https://capsule-render.vercel.app/api?type=venom&theme=default&text=Marcos%20Raimondi&height=200&animation=fadeIn" />
   </picture>
 </p>
 
