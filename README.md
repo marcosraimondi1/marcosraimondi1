@@ -7,7 +7,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://capsule-render.vercel.app/api?type=venom&theme=radical&text=Marcos%20Raimondi&height=200&animation=fadeIn"
+      srcset="https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=Marcos%20Raimondi&height=200&animation=fadeIn"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://capsule-render.vercel.app/api?type=venom&theme=default&text=Marcos%20Raimondi&height=200&animation=fadeIn" />
@@ -22,10 +22,32 @@
 <!-- SOCIAL LINKS -->
 [![LinkedIn](https://github.com/user-attachments/assets/7471fddb-5376-49a4-92f8-7359ea3d439f)](https://linkedin.com/in/marcos-raimondi) 
 [![Mail](https://github.com/user-attachments/assets/d0e2de4b-50d8-4f45-b6bc-e5b091ac2176)](mailto:marcosraimondi1@gmail.com)
+[![CV](https://github.com/user-attachments/assets/75c56bd0-7af9-4546-877c-440759954a6a)](https://drive.google.com/file/d/1TRWvolv9FgV6CqYB8cu2wrPswiOKOPyO/view?usp=sharing)
+[![Portfolio](https://github.com/user-attachments/assets/e33ef260-c068-4829-9267-0a325edcbaa6)](https://marcosraimondi1.github.io/)
 
 # 💫 About Me
-👨‍💻 Computer Engineer<br>
-🌐 https://marcosraimondi1.github.io<br><br>
+```yml
+name: Marcos Raimondi
+located_in: Cordoba, Argentina
+education:
+  [
+    "Computer Engineering at Universidad Nacional de Cordoba",
+  ]
+fields_of_interest:
+  [
+    "Web Development",
+    "Internet Of Things",
+    "Data Visualization",
+    "Cybersecurity",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Undergraduate Scholar in Digital Design and Digital Communications",
+  ]
+currently_learning: [ "Spring", "NextJS" ]
+hobbies: [ "Climbing", "Hiking", "Gaming", "Movies" ]
+```
 
 # 💻 Tech Stack
 <p align="left">
@@ -49,6 +71,9 @@
   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     alt="react" width="45" height="45"
+  />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="node" width="45" height="45"
   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     alt="mongodb" width="45" height="45"
@@ -56,10 +81,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"      
     alt="mysql" width="45" height="45"
   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    alt="docker" width="45" height="45"
+    />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"        
     alt="linux" width="45" height="45"
   />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"
     alt="vim" width="45" height="45"
   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
@@ -126,7 +154,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://capsule-render.vercel.app/api?type=waving&theme=radical&section=footer"
+      srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&section=footer"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=default&section=footer" />
