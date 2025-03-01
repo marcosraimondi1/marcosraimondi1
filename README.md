@@ -25,7 +25,11 @@
 [![CV](https://github.com/user-attachments/assets/e3c52997-c7da-41ac-909a-dc3eef9c2420)](https://drive.google.com/file/d/1TRWvolv9FgV6CqYB8cu2wrPswiOKOPyO/view?usp=sharing)
 [![Portfolio](https://github.com/user-attachments/assets/e33ef260-c068-4829-9267-0a325edcbaa6)](https://marcosraimondi1.github.io/)
 
-# 💫 About Me
+
+# About Me
+
+<br/>
+
 ```yml
 name: Marcos Raimondi
 located_in: Cordoba, Argentina
@@ -48,8 +52,12 @@ technical_background:
 currently_learning: [ "Spring", "NextJS" ]
 hobbies: [ "Climbing", "Hiking", "Gaming", "Movies" ]
 ```
+<br/>
 
-# 💻 Tech Stack
+# Tech Stack
+
+<br/>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
     alt="cpp" width="45" height="45"
@@ -95,7 +103,9 @@ hobbies: [ "Climbing", "Hiking", "Gaming", "Movies" ]
   />       
 </p>
 
-# 📊 My Github History
+<br/>
+
+# My Github Stats
 
 <p align="center">
   
@@ -143,6 +153,7 @@ hobbies: [ "Climbing", "Hiking", "Gaming", "Movies" ]
     />
     <img width="100%" alt="github-snake" src="https://github.com/marcosraimondi1/marcosraimondi1/blob/output/github-contribution-grid-snake.svg" />
   </picture>
+  <p align="center">Contribution History</p>
 </p>
 
 <!-- FOOTER -->
