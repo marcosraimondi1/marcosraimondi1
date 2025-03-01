@@ -153,7 +153,6 @@ hobbies: [ "Climbing", "Hiking", "Gaming", "Movies" ]
     />
     <img width="100%" alt="github-snake" src="https://github.com/marcosraimondi1/marcosraimondi1/blob/output/github-contribution-grid-snake.svg" />
   </picture>
-  <p align="center">Contribution History</p>
 </p>
 
 <!-- FOOTER -->
