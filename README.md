@@ -39,6 +39,7 @@ education:
   ]
 fields_of_interest:
   [
+    "Embedded Systems",
     "Web Development",
     "Internet Of Things",
     "Data Visualization",
